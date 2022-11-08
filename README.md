@@ -88,11 +88,6 @@
  'Hi, Nikita', 'Hi' -> true
 ```
 
-# функция customs
-написать сustom функции(customSome, customFind, customMap, customReducer, custonFilter), которые будут повторяют логику методов массива (.some(), .find(), .map(), .reducer(), .filter())
-```
-```
-
 ## RELEASE 3
 
 # функция fullName
